@@ -9,6 +9,11 @@ import android.graphics.Rect;
 public class Assistant {
 	
 	/**
+	 * 车辆等级，0为未拥有
+	 */
+	public static int[] carLevel = {1, 0, 0, 0, 0, 0, 0, 0, 0};
+	
+	/**
 	 * 点是否落在某个矩形里
 	 * @param xPoint 点x
 	 * @param yPoint 点y
@@ -36,4 +41,5 @@ public class Assistant {
 		}
 		return -1;
 	}
+	
 }

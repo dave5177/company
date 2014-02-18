@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="carBmpId">
+        <item>@drawable/garage_car_0</item>
+    </integer-array>
+
+    <array name="cars">
+        <item>@drawable/garage_car_0</item>
+        <item>@drawable/garage_car_1</item>
+        <item>@drawable/garage_car_2</item>
+        <item>@drawable/garage_car_3</item>
+        <item>@drawable/garage_car_4</item>
+        <item>@drawable/garage_car_5</item>
+        <item>@drawable/garage_car_6</item>
+        <item>@drawable/garage_car_7</item>
+        <item>@drawable/garage_car_8</item>
+    </array>
+
+</resources>

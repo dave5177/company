@@ -4,6 +4,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.os.Handler;
@@ -65,6 +66,11 @@ public class MainActivity extends Activity {
             // œ‘ æ∂‘ª∞øÚ  
             isExit.show();  
 			break;
+//		case KeyEvent.KEYCODE_SEARCH:
+//			Intent intent = new Intent();
+//			intent.setAction("android.intent.action.MAIN");
+//			startActivity(intent);
+//			break;
 
 		default:
 			break;
